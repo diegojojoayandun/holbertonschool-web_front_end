@@ -311,7 +311,7 @@ a:active {
 
 .section-header {
   text-align: var(--section-header-align);
-  padding: var(--section-footer-padding);
+  padding: var(--section-header-padding);
 }
 
 .section-body {
@@ -356,7 +356,7 @@ a:active {
 ul.row {
   margin: 0;
   padding: 0;
-  list-style: none;
+  list-style-type: none;
 }
 
 .col-l-3 {
